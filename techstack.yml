@@ -1,7 +1,8 @@
 repo_name: ludoo0d0a/es-bank
-report_id: cd224abea6dfe8e3918ae669afee0b31
+report_id: f3b627b1cbe0af53f8643881f9030cc4
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T10:00:18+00:00'
+timestamp: '2024-01-04T15:15:28+00:00'
 requested_by: ludoo0d0a
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/ludoo0d0a/es-bank
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ludoo0d0a/es-bank
   detection_source: Repo Metadata
 - name: Ant Design
   description: A set of high-quality React components
@@ -62,6 +65,7 @@ tools:
   category: Application Hosting
   sub_category: Realtime Backend / API
   image_url: https://img.stackshare.io/service/4287/Z9U5N9pN_400x400.jpg
+  detection_source_url: https://github.com/ludoo0d0a/es-bank/blob/master/package.json
   detection_source: package.json
   last_updated_by: LudoO
   last_updated_on: 2019-07-17 11:17:31.000000000 Z
@@ -73,6 +77,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ludoo0d0a/es-bank
   detection_source: Repo Metadata
 - name: npm
   description: The package manager for JavaScript.
@@ -82,6 +87,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ludoo0d0a/es-bank/blob/master/package.json
   detection_source: package.json
   last_updated_by: LudoO
   last_updated_on: 2019-07-17 11:17:31.000000000 Z
@@ -91,6 +97,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/ludoo0d0a/es-bank/blob/master/public/index.html
   detection_source: public/index.html
   last_updated_by: LudoO
   last_updated_on: 2019-07-17 11:17:31.000000000 Z
